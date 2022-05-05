@@ -26,8 +26,6 @@ async function main() {
         }
     });
     
-    
-
 }
 
 function getColor(stock){
